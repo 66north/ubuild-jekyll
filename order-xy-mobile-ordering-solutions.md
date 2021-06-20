@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "#home"
     link_text: Home
+  - link_text: How it works
+    link: "#how"
   cta:
     url: ''
     button_text: ''
