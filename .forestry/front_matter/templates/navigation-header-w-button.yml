@@ -10,6 +10,7 @@ fields:
 - type: file
   name: logo
   label: Logo
+  default: "/uploads/2021/06/20/orderxy-logo-2.mp4"
 - type: field_group_list
   name: navigation
   label: Navigation
