@@ -11,6 +11,8 @@ page_sections:
     link_text: Home
   - link_text: How it works
     link: "#how"
+  - link: "#what"
+    link_text: What it does
   cta:
     url: ''
     button_text: ''
