@@ -8,17 +8,15 @@ page_sections:
   logo: "/uploads/2021/06/20/logo2.png"
   navigation:
   - link: "/"
+    link_text: Home
+  - link: "#how"
     link_text: How it works
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#what"
+    link_text: What can be done
+  - link: "#about"
+    link_text: About
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    url: "#cta"
     button_text: I'm interested...
 - template: hero-banner-w-image
   block: hero-2
