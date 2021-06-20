@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/06/20/orderxy-logo-2.mp4"
+  logo: "/uploads/2021/06/20/logo_transparent.png"
   navigation:
   - link: "/"
     link_text: Ubuild
